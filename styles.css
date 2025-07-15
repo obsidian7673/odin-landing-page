@@ -78,3 +78,36 @@ body {
   color: white;
   background-color: gray;
 }
+
+.info {
+  padding: 0 15vw;
+}
+
+.info-title {
+  margin: 40px;
+  font-size: 36px;
+  font-weight: 900;
+  text-align: center;
+  color: #1f2937
+}
+
+.info-card-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.info-card {
+  flex: 0 0 0
+}
+
+.card-image {
+  border: 5px solid #3882f6;
+  border-radius: 10%;
+  min-height: 180px;
+  min-width: 180px;
+}
+
+.card-text {
+  text-align: center;
+  color: dimgray;
+}
