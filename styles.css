@@ -80,7 +80,7 @@ body {
 }
 
 .info {
-  padding: 0 15vw;
+  padding: 0 15vw 100px 15vw;
 }
 
 .info-title {
@@ -110,4 +110,23 @@ body {
 .card-text {
   text-align: center;
   color: dimgray;
+}
+
+.message {
+  padding: 100px 25vw;
+  background-color: #e5e7eb;
+}
+
+.message-quote {
+  font-size: 36px;
+  font-weight: light;
+  font-style: italic;
+  color: #1f2937
+}
+
+.message-name {
+  font-size: 24px;
+  font-weight: 900;
+  text-align: right;
+  color: #1f2937
 }
