@@ -15,16 +15,16 @@ body > * {
   background-color: #1f2937;
 }
 
-.logo {
+.header-logo {
   font-size: 24px;
   color: #f9faf8;
 }
 
-.links {
+.header-links {
   font-size: 18px;
 }
 
-.links ul {
+.header-links ul {
   display: flex;
   gap: 2rem;
   margin: 0;
@@ -32,7 +32,7 @@ body > * {
   list-style: none;
 }
 
-.links a {
+.header-links a {
   text-decoration: none;
   color: #e5e7eb
 }
